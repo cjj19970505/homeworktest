@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.1 (64-bit)
+# SW Build 2188600 on Wed Apr  4 18:40:38 MDT 2018
+# IP Build 2185939 on Wed Apr  4 20:55:05 MDT 2018
+# Start of session at: Thu Apr 12 00:38:38 2018
+# Process ID: 10092
+# Current directory: D:/Users/cjj19/Documents/Learning/homeworktest/homeworktest.runs/synth_1
+# Command line: vivado.exe -log MainBlockDesign_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source MainBlockDesign_wrapper.tcl
+# Log file: D:/Users/cjj19/Documents/Learning/homeworktest/homeworktest.runs/synth_1/MainBlockDesign_wrapper.vds
+# Journal file: D:/Users/cjj19/Documents/Learning/homeworktest/homeworktest.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source MainBlockDesign_wrapper.tcl -notrace
